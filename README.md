@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0C2D4D&height=220&section=header&text=Beutah%20Monyoncho&fontColor=2BA39B&fontSize=48&fontAlignY=36&desc=Cloud%20%26%20Identity%20Engineer%20%7C%20Founder%2C%20Bahari%20Advisory&descColor=c9d6e3&descSize=17&descAlignY=56)
+![banner](banner.png)
 
 [![Website](https://img.shields.io/badge/beutahmonyoncho.com-0C2D4D?style=for-the-badge&logo=googlechrome&logoColor=2BA39B)](https://beutahmonyoncho.com)
 [![Bahari Advisory](https://img.shields.io/badge/Bahari_Advisory-2BA39B?style=for-the-badge&logoColor=white)](https://bahariadvisory.com)
@@ -42,6 +42,5 @@ Today I run **[Bahari Advisory](https://bahariadvisory.com)**, a cloud and ident
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0C2D4D&height=100&section=footer)
 
 </div>
