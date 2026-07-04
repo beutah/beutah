@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/beutahmonyoncho.com-0C2D4D?style=for-the-badge&logo=googlechrome&logoColor=2BA39B)](https://beutahmonyoncho.com)
 [![Bahari Advisory](https://img.shields.io/badge/Bahari_Advisory-2BA39B?style=for-the-badge&logoColor=white)](https://bahariadvisory.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beutahmonyoncho/)
 
 </div>
 
